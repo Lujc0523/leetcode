@@ -1,3 +1,7 @@
+/*
+ * Copyright © 2023-2023 Lujc, All Rights Reserved.
+ */
+
 package com.lujc0523;
 
 /**
@@ -27,6 +31,11 @@ package com.lujc0523;
  * -104 <= nums[i] <= 104
  * nums 为 无重复元素 的 升序 排列数组
  * -104 <= target <= 104
+ *
+ * @author Lujc0
+ * @version 1.0
+ * @date 2023/4/15 0:14
+ * @sine LeetCode
  */
 public class SearchInsert {
 
